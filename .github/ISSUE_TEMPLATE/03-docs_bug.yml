@@ -1,6 +1,6 @@
 ---
 name: 📚 Documentation or README.md.md.md issue report
-description: Request documentation or report an issue in the project's documentation or README.md.md.md file.
+description: Request documentation or report an issue in the project's documentation or README.md file.
 title: "📚 - "
 labels:
   - "type: docs"
