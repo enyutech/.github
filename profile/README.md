@@ -1,11 +1,11 @@
 # Welcome!
 
-[Enyutech][enyutech] is the open source software company behind the development and maintenance of the **124ScaleLife** company [website][scalelife] and [community forum][scalelifeforum].
-We're a team of passionate developers and hobbyists with a shared goal: to build the best open source software and Scale Model community in the world.
+[Enyutech][enyutech] is a distinguished software development firm with a focus on crafting superior web and mobile applications. Our
+team comprises seasoned software developers who are dedicated to delivering exceptional software solutions. Our mission
+is to empower businesses by equipping them with the advanced tools necessary for growth and prosperity in today's
+digital landscape.
 
 Maintained by [@davidsaulrodriguez][owner].
 
 [enyutech]: https://enyutech.com/
-[scalelife]: https://124scalelife.com/
-[scalelifeforum]: https://forum.124scalelife.com/
 [owner]: https://github.com/davidsaulrodriguez
