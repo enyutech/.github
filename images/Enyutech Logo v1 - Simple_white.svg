@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 575.3 165.91">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .08em;
+      }
+
+      .cls-2 {
+        letter-spacing: .07em;
+      }
+
+      .cls-3 {
+        letter-spacing: .03em;
+      }
+
+      .cls-4 {
+        font-family: Hellix-Medium, Hellix;
+        font-size: 66.57px;
+        font-weight: 500;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-6 {
+        letter-spacing: .06em;
+      }
+    </style>
+  </defs>
+  <text class="cls-4" transform="translate(172.72 106.21)"><tspan class="cls-2" x="0" y="0">E</tspan><tspan class="cls-6" x="39.87" y="0">N</tspan><tspan class="cls-1" x="89.78" y="0">YUT</tspan><tspan class="cls-3" x="232.1" y="0">E</tspan><tspan class="cls-1" x="269.31" y="0">CH</tspan></text>
+  <path class="cls-5" d="M91.35,143.49c-7,0-14-2.66-19.32-7.99l-31.58-31.58c-10.65-10.66-10.65-27.99,0-38.65l1.12-1.12c1.18-1.18,3.09-1.18,4.27,0l6.93,6.93c1.18,1.18,1.18,3.09,0,4.27l-1.12,1.12c-4.48,4.48-4.48,11.77,0,16.24l31.58,31.58c4.48,4.48,11.77,4.48,16.24,0l31.58-31.58c4.48-4.48,4.48-11.77,0-16.24l-31.58-31.58c-4.48-4.48-11.77-4.48-16.24,0l-16.93,16.93c-1.18,1.18-3.09,1.18-4.27,0l-6.93-6.93c-1.18-1.18-1.18-3.09,0-4.27l16.93-16.93c10.66-10.66,27.99-10.65,38.65,0l31.58,31.58c10.65,10.66,10.65,27.99,0,38.65l-31.58,31.58c-5.33,5.33-12.33,7.99-19.32,7.99Z"/>
+</svg>
